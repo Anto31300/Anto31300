@@ -42,8 +42,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
@@ -53,7 +51,7 @@
 <h3 align="left"> 📈 GitHub Stats </h3>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josel099&show_icons=true&locale=en&theme=transparent" alt="josel099" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anto31300&show_icons=true&locale=en&theme=transparent" alt="Anto31300" /></p>
 
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=josel099&theme=transparent&"alt="jobin8921" /></p>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Anto31300&theme=transparent&"alt="Anto31300" /></p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Anto3100&show_icons=true&theme=transparent&locale=en" alt="Anto31300" /></p> -->
