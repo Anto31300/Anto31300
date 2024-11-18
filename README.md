@@ -6,7 +6,7 @@
 
 ### ⚡ A quick introduction
 
-- 🌱 I'm a final year B.Tech student, passionate about Python Django, and proficient in React.
+- 🌱 I'm a 2024 B.Tech passout, passionate about Python Django, and proficient in React.
 - 🤟🏻 I'm an aspiring software developer, cloud enthusiast, and a full-stack developer.
 - ⚽ Hobbies: Football, reading, and watching movies. I also enjoy exploring new technologies!
 - 😝 Fun-Fact: I have an uncanny talent for finding the best local food joints in any city.
